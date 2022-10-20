@@ -4,11 +4,12 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Variables
+	* Variables: es un espacio de memoria en donde podemos guardar cualquier dato o información.
 	* Strings: es un tipo de dato que se reconoce por estar entre ' '.
-	* Funciones (argumentos, `return`)
-	* Declaraciones `if`
-	* Valores booleanos (`true`, `false`)
+	* Funciones (argumentos, `return`) : las funciones son como las operaciones en matemática, nos va a permitir hacer muchas veces lo mismo, sin tener que repetirlo.Estas operaciones puede o no tener lo que se llama argumentos. Loa argumentos es información que se va a utilizar en las operaciones, y cobran valor cuando yo nombre a la función.
+   	Todas estas operaciones matemáticas que llamamos Funciones, devuelven algun tipo de información, cuando queramos que nos devuelva algo, vamos a usar la palabra return.
+	* Declaraciones `if`: cuando programamos podemos hacer preguntas e ir ejecutando distintos códigos, a eso se le llama Control de flujo.El if es un control de flujo condicional, porque se usa indicando una condición determinada para que se ejecute o no el código.
+	* Valores booleanos (`true`, `false`):  son un tipo de dato que se puede guardar en un espacio de memoria (variable). Y tiene dos valores o significados en Javascript, true y false (verdadero y falso)
 
 
 2. Instalar Node y NPM. NPM se incluye con Node. https://nodejs.org/en/download/
